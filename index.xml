@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Universal</title>
+    <link>https://8023v.com/</link>
+    <description>Recent content on Universal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate><atom:link href="https://8023v.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Categories Post</title>
+      <link>https://8023v.com/blog/2021/08/01/categories-post/</link>
+      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      
+      <guid>https://8023v.com/blog/2021/08/01/categories-post/</guid>
+      <description>I&amp;rsquo;m a post with multiple categories in the frontmatter:
+categories = [&amp;quot;programming&amp;quot;,&amp;quot;lorem&amp;quot;,&amp;quot;pseudo&amp;quot;]Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus. Pellentesque sed tempus risus. Proin id hendrerit ante. Vestibulum vitae urna ut mauris ultricies dignissim.</description>
+    </item>
+    
+    <item>
+      <title>Linked post</title>
+      <link>https://8023v.com/blog/2015/10/02/linked-post/</link>
+      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      
+      <guid>https://8023v.com/blog/2015/10/02/linked-post/</guid>
+      <description>I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:
+menu = &amp;quot;main&amp;quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus.</description>
+    </item>
+    
+    <item>
+      <title>Go is for lovers</title>
+      <link>https://8023v.com/blog/2015/09/17/go-is-for-lovers/</link>
+      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
+      
+      <guid>https://8023v.com/blog/2015/09/17/go-is-for-lovers/</guid>
+      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
+This document is a brief primer on using go templates.</description>
+    </item>
+    
+    <item>
+      <title>Hugo is for lovers</title>
+      <link>https://8023v.com/blog/2015/08/03/hugo-is-for-lovers/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>https://8023v.com/blog/2015/08/03/hugo-is-for-lovers/</guid>
+      <description>This is the summary Goto &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;hugo releases&lt;/a&gt; and download the appropriate version for your os and architecture. Save it somewhere specific as we will be using it in the next step. More complete instructions are available at &lt;a href=&#34;https://8023v.com/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;</description>
+    </item>
+    
+    <item>
+      <title>Creating a new theme</title>
+      <link>https://8023v.com/blog/2015/06/24/creating-a-new-theme/</link>
+      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      
+      <guid>https://8023v.com/blog/2015/06/24/creating-a-new-theme/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
+We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+    </item>
+    
+    <item>
+      <title>FAQ</title>
+      <link>https://8023v.com/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://8023v.com/faq/</guid>
+      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER? Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
+    </item>
+    
+    <item>
+      <title>Migrate from Jekyll</title>
+      <link>https://8023v.com/blog/1/01/01/migrate-from-jekyll/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://8023v.com/blog/1/01/01/migrate-from-jekyll/</guid>
+      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
+▾ &amp;lt;root&amp;gt;/▾ images/logo.pngshould become
+▾ &amp;lt;root&amp;gt;/▾ static/▾ images/logo.pngAdditionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+    <item>
+      <title>联系我们</title>
+      <link>https://8023v.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://8023v.com/contact/</guid>
+      <description>长春东日电梯有限公司 长春东日电梯有限公司于 1999 年注册成立，是吉林省第一家集电梯产品研发、设计、制造、销售、安装、维修于一体的电梯生产企业，取得了由国家质量监督检验检疫总局颁发的《特种设备制造许可证》及《特种设备安装维修改造许可证》
+&amp;ldquo;东日电梯”作为吉林省唯一的自主电梯品牌，经过 20 余年的发展，业务范围覆盖东北三省及内蒙古地区，主要系列产品包含:乘客电梯、货运电梯、医用电梯、观光电梯、别墅电梯、自动扶梯、自动人行道、杂物电梯等。迄今已成功销售并安装东日品牌客梯、扶梯、货梯、医梯、住宅梯、别墅梯、杂物电梯等 8600 余部 ;维修、改造电梯 12000 余部( 以销售合同、维修、改造记录为证 》
+2017 年，东日电梯投资 1 亿 2000 余万元，在长春市经济技术开发区开工建设《年产 5000 台电梯制造基地项目》，打造东北地区最大的电梯及电梯配件研发、制造基地，为下一步面向东北及华北地区长期、稳定供给电梯及相关产品，打下坚实的产业基础。东日公司现有高级技术工程师 9 名，技术工程师15 名，一线高级技工 43 名，已初步具备东北地区电梯行业设计、研发中心能力，并申请多项《电梯新技术研发专利》
+“东日电梯”设计理念人性化，电梯轿厢装饰多样化，用户可灵活选择除标准配置外，也可根据用户要求增设应急救援装置、全彩多媒体轿内控制、轿厢空调、轿厢监控装置、电梯消防功能等系统。东日电梯以其“高品质、优服务”的市场竞争理念，多年来深受广大客户的青睐，在同行业内已具备与世界一流电梯竞争的实力与规模。面向智能化、信息化的今天，东日人，必将依托先进的制造理念，雄厚的技术实力与生产规模，为中国电梯行业做出自己的贡献。</description>
+    </item>
+    
+    <item>
+      <title>升级改造解决方案</title>
+      <link>https://8023v.com/sjweibao/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://8023v.com/sjweibao/</guid>
+      <description>尊敬的客户，我们作为电梯升级改造行业的专业服务提供商，为您提供一系列智能化升级改造解决方案，旨在提高您现有电梯的安全性、可靠性和舒适度，以满足您的特殊需求和要求。
+我们的电梯升级改造解决方案包括以下几个方面：
+1、安全性升级：我们提供各种高级安全装置和装备，如电梯门锁、紧急制动器、防坠器等，以确保电梯安全无忧。我们的技术团队具有多年的电梯安全维护经验，能够为您制定出最佳的升级方案。
+2、提高运行速度：我们可以更换或升级电梯的电机、驱动器、控制器等设备以优化电梯行程速度，降低乘坐时间，提高乘客出行效率。
+3、舒适度提升：我们可以将电梯内部的装修升级，安装大屏幕显示屏、音响系统和空气净化器，提升乘客体验，营造更加舒适的乘坐环境。
+4、节能环保：我们提供多种节能环保解决方案，如安装LED照明、安装电梯监管系统、更换高能效电梯配件等，以减少电梯的能源消耗，优化环保节能效益，同时节约您的维修成本。
+5、系统智能化：我们可以将电梯升级成智能系统，实现远程监控及自动化运行控制，管理效率大幅提升。
+我们的团队将与您全面交流，根据您的细节需求制定出最佳的方案，为您提供最优质的电梯升级服务。联系我们，了解详细的服务流程，接受我们的服务，您将获得最好的服务体验和满意度。</description>
+    </item>
+    
+    <item>
+      <title>原厂维保解决方案</title>
+      <link>https://8023v.com/ycweibao/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://8023v.com/ycweibao/</guid>
+      <description>本公司提供的原厂维保解决方案，是为满足客户各类机器设备在运转中的日常维护和维修需求而设计的一套完善的服务计划。
+通过本方案，您将享有我们专业团队提供的高品质维护服务，让您的设备一直处于最佳状态，提高设备寿命、降低运营成本的同时，也能提高工作效率和安全性。
+我们的维保方案具有以下特点：
+1、电梯生产制造厂家：我们是吉林省内第一家电梯制造生产厂家，拥有专业的技能及多年的经验，能够确保您的设备得到有效和快速的维护。
+2、定制服务：我们将根据您的具体要求和设备特性，定制个性化的服务方案，令您的维护计划更加灵活和高效。
+3、预防性维护：除了日常的设备保养工作，我们还会根据您的设备特点和使用环境，进行定期的维护计划，预防故障的出现，从而保证您的无缝生产运营。
+4、快速响应：我们服务团队随时待命，能够快速响应客户的故障报告，并立即处理，确保您的生产运转，减少非运营时间的损失。
+5、合理定价：我们的维护服务价格合理，能够为您节省运营成本，确保服务质量与价格之间的平衡。
+总之，我们的原厂维保解决方案，是一套高质量、高效率和定制化的服务计划，我们将一直和您一起合作，帮您实现设备的最大价值，提高生产的效率和效益。
+根据《特种设备安全监察条例》规定：电梯应当至少每15日进行一次清洁、润滑、调整和检查。
+根据《中华人民共和国特种设备安全法》规定：电梯的改造、维修应当由电梯制造单位或者受其委托的维保单位进行。</description>
+    </item>
+    
+  </channel>
+</rss>
