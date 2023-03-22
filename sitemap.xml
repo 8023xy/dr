@@ -2,79 +2,84 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.dongil-lift.com/authors/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>www.dongil-lift.com/authors/</loc>
+    <lastmod>2023-03-04T10:15:20+02:00</lastmod>
   </url><url>
-    <loc>https://www.dongil-lift.com/blog/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>www.dongil-lift.com/blog/</loc>
+    <lastmod>2023-03-04T10:15:20+02:00</lastmod>
   </url><url>
-    <loc>https://www.dongil-lift.com/categories/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>www.dongil-lift.com/categories/</loc>
+    <lastmod>2023-03-04T10:15:20+02:00</lastmod>
   </url><url>
-    <loc>https://www.dongil-lift.com/blog/2021/08/01/categories-post/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>www.dongil-lift.com/authors/john-doe/</loc>
+    <lastmod>2023-03-04T10:15:20+02:00</lastmod>
   </url><url>
-    <loc>https://www.dongil-lift.com/tags/golang/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>www.dongil-lift.com/tags/</loc>
+    <lastmod>2023-03-04T10:15:20+02:00</lastmod>
   </url><url>
-    <loc>https://www.dongil-lift.com/tags/hugo/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>www.dongil-lift.com/tags/%E7%94%B5%E6%A2%AF/</loc>
+    <lastmod>2023-03-04T10:15:20+02:00</lastmod>
   </url><url>
-    <loc>https://www.dongil-lift.com/authors/john-doe/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>www.dongil-lift.com/tags/%E5%8A%A0%E8%A3%85/</loc>
+    <lastmod>2023-03-04T10:15:20+02:00</lastmod>
   </url><url>
-    <loc>https://www.dongil-lift.com/categories/lorem/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>www.dongil-lift.com/tags/%E5%8A%A0%E8%A3%85%E7%94%B5%E6%A2%AF/</loc>
+    <lastmod>2023-03-04T10:15:20+02:00</lastmod>
   </url><url>
-    <loc>https://www.dongil-lift.com/tags/programming/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>www.dongil-lift.com/categories/%E5%8A%A0%E8%A3%85%E7%94%B5%E6%A2%AF/</loc>
+    <lastmod>2023-03-04T10:15:20+02:00</lastmod>
   </url><url>
-    <loc>https://www.dongil-lift.com/categories/programming/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>www.dongil-lift.com/tags/%E9%94%A6%E6%B0%B4%E8%B7%AF/</loc>
+    <lastmod>2023-03-04T10:15:20+02:00</lastmod>
   </url><url>
-    <loc>https://www.dongil-lift.com/categories/pseudo/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>www.dongil-lift.com/tags/%E6%97%A7%E6%A5%BC/</loc>
+    <lastmod>2023-03-04T10:15:20+02:00</lastmod>
   </url><url>
-    <loc>https://www.dongil-lift.com/tags/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>www.dongil-lift.com/tags/%E6%97%A7%E6%A5%BC%E5%8A%A0%E8%A3%85%E7%94%B5%E6%A2%AF/</loc>
+    <lastmod>2023-03-04T10:15:20+02:00</lastmod>
   </url><url>
-    <loc>https://www.dongil-lift.com/tags/theme/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>www.dongil-lift.com/tags/%E5%B8%82%E6%94%BF%E5%BA%9C%E5%AE%BF%E8%88%8D/</loc>
+    <lastmod>2023-03-04T10:15:20+02:00</lastmod>
   </url><url>
-    <loc>https://www.dongil-lift.com/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
+    <loc>www.dongil-lift.com/tags/%E6%96%B0%E9%97%BB%E6%8A%A5%E9%81%93/</loc>
+    <lastmod>2023-03-04T10:15:20+02:00</lastmod>
   </url><url>
-    <loc>https://www.dongil-lift.com/authors/jane-doe/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <loc>www.dongil-lift.com/tags/%E9%95%BF%E6%98%A5/</loc>
+    <lastmod>2023-03-04T10:15:20+02:00</lastmod>
   </url><url>
-    <loc>https://www.dongil-lift.com/blog/2015/10/02/linked-post/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <loc>www.dongil-lift.com/tags/%E9%95%BF%E6%98%A5%E4%B8%9C%E6%97%A5%E7%94%B5%E6%A2%AF/</loc>
+    <lastmod>2023-03-04T10:15:20+02:00</lastmod>
   </url><url>
-    <loc>https://www.dongil-lift.com/tags/go/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+    <loc>www.dongil-lift.com/tags/%E9%95%BF%E6%98%A5%E4%B8%9C%E6%97%A5%E7%94%B5%E6%A2%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/</loc>
+    <lastmod>2023-03-04T10:15:20+02:00</lastmod>
   </url><url>
-    <loc>https://www.dongil-lift.com/blog/2015/09/17/go-is-for-lovers/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+    <loc>www.dongil-lift.com/</loc>
+    <lastmod>2023-03-04T10:15:20+02:00</lastmod>
   </url><url>
-    <loc>https://www.dongil-lift.com/blog/2015/08/03/hugo-is-for-lovers/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+    <loc>www.dongil-lift.com/blog/2023/03/04/jiazhuangdianti-4/</loc>
+    <lastmod>2023-03-04T10:15:20+02:00</lastmod>
   </url><url>
-    <loc>https://www.dongil-lift.com/blog/2015/06/24/creating-a-new-theme/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+    <loc>www.dongil-lift.com/tags/%E5%9B%BD%E7%A8%8E%E7%B9%81%E8%8D%A3%E5%B0%8F%E5%8C%BA/</loc>
+    <lastmod>2023-03-04T09:30:20+02:00</lastmod>
   </url><url>
-    <loc>https://www.dongil-lift.com/categories/starting/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+    <loc>www.dongil-lift.com/tags/%E5%8D%97%E5%85%B3%E5%8C%BA/</loc>
+    <lastmod>2023-03-04T09:30:20+02:00</lastmod>
   </url><url>
-    <loc>https://www.dongil-lift.com/faq/</loc>
+    <loc>www.dongil-lift.com/blog/2023/03/04/jiazhuangdianti-2/</loc>
+    <lastmod>2023-03-04T09:30:20+02:00</lastmod>
   </url><url>
-    <loc>https://www.dongil-lift.com/tags/ipsum/</loc>
+    <loc>www.dongil-lift.com/blog/2022/07/12/jiazhuangdianti-3/</loc>
+    <lastmod>2022-07-12T11:35:20+02:00</lastmod>
   </url><url>
-    <loc>https://www.dongil-lift.com/blog/1/01/01/migrate-from-jekyll/</loc>
+    <loc>www.dongil-lift.com/blog/2020/12/07/jiazhuangdianti-1/</loc>
+    <lastmod>2020-12-07T09:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://www.dongil-lift.com/contact/</loc>
+    <loc>www.dongil-lift.com/faq/</loc>
   </url><url>
-    <loc>https://www.dongil-lift.com/sjweibao/</loc>
+    <loc>www.dongil-lift.com/contact/</loc>
   </url><url>
-    <loc>https://www.dongil-lift.com/ycweibao/</loc>
+    <loc>www.dongil-lift.com/sjweibao/</loc>
+  </url><url>
+    <loc>www.dongil-lift.com/ycweibao/</loc>
   </url>
 </urlset>
